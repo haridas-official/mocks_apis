@@ -1,8 +1,4 @@
-{
-  "status": 1,
-  "dataRowCount": 0,
-  "datetime": "2025-02-19 19:42:35",
-  "data": [
+[
     {
       "namespace_id": 1,
       "namespace_name": "Bits",
@@ -160,4 +156,3 @@
       "active_flag": 1
     }
   ]
-}
