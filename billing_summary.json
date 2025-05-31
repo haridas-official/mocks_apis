@@ -4,7 +4,7 @@
   "datetime": "2025-05-30 12:28:07",
   "data": [
     {
-      "organization_code": "ORO6OJD23",
+      "organization_code": "OROB7BJ220",
       "onaccount_lr_count": 3,
       "onaccount_topay_lr_count": 0,
       "onaccount_lr_amount": 1230.00,
@@ -21,7 +21,7 @@
       "payment_type_code": "INP"
     },
     {
-      "organization_code": "ORO6OJD23",
+      "organization_code": "OROB7BJ220",
       "onaccount_lr_count": 0,
       "onaccount_topay_lr_count": 2,
       "onaccount_lr_amount": 0.00,
@@ -38,7 +38,7 @@
       "payment_type_code": "OATP"
     },
     {
-      "organization_code": "ORO6OF65",
+      "organization_code": "OROB8DJ225",
       "onaccount_lr_count": 3,
       "onaccount_topay_lr_count": 0,
       "onaccount_lr_amount": 1230.00,
@@ -55,7 +55,7 @@
       "payment_type_code": "INP"
     },
     {
-      "organization_code": "ORO6OF65",
+      "organization_code": "OROB8DJ225",
       "onaccount_lr_count": 0,
       "onaccount_topay_lr_count": 2,
       "onaccount_lr_amount": 0.00,
@@ -72,7 +72,7 @@
       "payment_type_code": "OATP"
     },
     {
-      "organization_code": "ORP3ODW38",
+      "organization_code": "STF3OEX206",
       "onaccount_lr_count": 3,
       "onaccount_topay_lr_count": 0,
       "onaccount_lr_amount": 1230.00,
@@ -89,7 +89,7 @@
       "payment_type_code": "INP"
     },
     {
-      "organization_code": "ORP3ODW38",
+      "organization_code": "STF3OEX206",
       "onaccount_lr_count": 0,
       "onaccount_topay_lr_count": 2,
       "onaccount_lr_amount": 0.00,
@@ -106,7 +106,7 @@
       "payment_type_code": "OATP"
     },
     {
-      "organization_code": "ORO6OIQ6",
+      "organization_code": "CGT28841286J",
       "onaccount_lr_count": 0,
       "onaccount_topay_lr_count": 2,
       "onaccount_lr_amount": 0.00,
@@ -123,7 +123,7 @@
       "payment_type_code": "OATP"
     },
      {
-      "organization_code": "ORP16I5933",
+      "organization_code": "ORO5LD3688",
       "onaccount_lr_count": 3,
       "onaccount_topay_lr_count": 0,
       "onaccount_lr_amount": 1230.00,
