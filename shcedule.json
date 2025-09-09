@@ -1,0 +1,1189 @@
+{
+  "status": 1,
+  "data": {
+    "basic_tab": {
+      "status": 1,
+      "datetime": "2025-09-09 12:28:06",
+      "data": [
+        {
+          "code": "SCH4688855H",
+          "name": "Nellore-Patna",
+          "activeFlag": 1,
+          "activeFrom": "2025-07-25",
+          "activeTo": "2028-07-29",
+          "dayOfWeek": "1111111",
+          "serviceNumber": "25072025c",
+          "displayName": "Nellore-Patna",
+          "apiDisplayName": "",
+          "pnrStartCode": "KOM",
+          "overrideList": [],
+          "scheduleType": {
+            "code": "REG",
+            "name": "Regular Schedule",
+            "activeFlag": 1
+          },
+          "scheduleTagList": [],
+          "distance": 0,
+          "sectorList": [],
+          "tripDateOverride": [],
+          "notificationContact": []
+        }
+      ]
+    },
+    "station_tab": [
+      {
+        "code": "",
+        "activeFlag": 1,
+        "schedule": {
+          "code": "SCH4688855H",
+          "activeFlag": 1,
+          "distance": 0
+        },
+        "station": {
+          "code": "ST5B8D127L",
+          "name": "Atmakur (Nellore)",
+          "activeFlag": 1,
+          "apiFlag": 0,
+          "latitude": "0",
+          "longitude": "0",
+          "radius": 0
+        },
+        "minitues": 240,
+        "stationSequence": 1,
+        "overrideList": [],
+        "mobileNumber": "NA",
+        "releaseMinutes": 0,
+        "stationPoints": [
+          {
+            "code": "SGP7PH45257",
+            "activeFlag": 1,
+            "schedule": {
+              "code": "SCH4688855H",
+              "activeFlag": 1,
+              "distance": 0
+            },
+            "station": {
+              "code": "ST5B8D127L",
+              "name": "Atmakur (Nellore)",
+              "activeFlag": 1,
+              "apiFlag": 0,
+              "latitude": "0",
+              "longitude": "0",
+              "radius": 0
+            },
+            "minitues": 240,
+            "stationSequence": 1,
+            "overrideList": [],
+            "mobileNumber": "NA",
+            "releaseMinutes": 0
+          }
+        ]
+      },
+      {
+        "code": "",
+        "activeFlag": 1,
+        "schedule": {
+          "code": "SCH4688855H",
+          "activeFlag": 1,
+          "distance": 0
+        },
+        "station": {
+          "code": "ST58866L",
+          "name": "Patna",
+          "activeFlag": 1,
+          "apiFlag": 0,
+          "latitude": "0",
+          "longitude": "0",
+          "radius": 0
+        },
+        "minitues": 2770,
+        "stationSequence": 2,
+        "overrideList": [],
+        "mobileNumber": "NA",
+        "releaseMinutes": 0,
+        "stationPoints": [
+          {
+            "code": "SGP7PH47258",
+            "activeFlag": 1,
+            "schedule": {
+              "code": "SCH4688855H",
+              "activeFlag": 1,
+              "distance": 0
+            },
+            "station": {
+              "code": "ST58866L",
+              "name": "Patna",
+              "activeFlag": 1,
+              "apiFlag": 0,
+              "latitude": "0",
+              "longitude": "0",
+              "radius": 0
+            },
+            "minitues": 2770,
+            "stationSequence": 2,
+            "overrideList": [],
+            "mobileNumber": "NA",
+            "releaseMinutes": 0
+          }
+        ]
+      }
+    ],
+    "bus_tab": {
+      "status": 1,
+      "datetime": "2025-09-09 12:28:06",
+      "data": [
+        {
+          "code": "SBP7PH53426",
+          "activeFlag": 1,
+          "distance": 0,
+          "schedule": {
+            "code": "SCH4688855H",
+            "activeFlag": 1,
+            "distance": 0
+          },
+          "bus": {
+            "code": "BUS4B861393G",
+            "name": "2+2 SEATER NON AC",
+            "activeFlag": 1,
+            "categoryCode": "LT01|CC02|CS99|MK99|ST04",
+            "displayName": "2+2 SEATER NON AC",
+            "seatCount": 0,
+            "totalSeatCount": 0,
+            "amenities": []
+          },
+          "tax": {
+            "activeFlag": 1
+          },
+          "breakevenSettings": {
+            "activeFlag": 1
+          },
+          "busSeatLayout": [
+            {
+              "code": "BLP75HP871",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 3,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "10",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP884",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 3,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "11",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP885",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 4,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "14",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP872",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 4,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "15",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP873",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 5,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "18",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP886",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 5,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "19",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP869",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 1,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "2",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP887",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 6,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "22",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP874",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 6,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "23",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP875",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 7,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "26",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP888",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 7,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "27",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP882",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 1,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "3",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP889",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 8,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "30",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP876",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 8,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "31",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP877",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 9,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "34",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP890",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 9,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "35",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP891",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 10,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "38",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP878",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 10,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "39",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP879",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 11,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "42",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP892",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 11,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "43",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP880",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 12,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "46",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP881",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 3,
+              "colPos": 12,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "47",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP893",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 12,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "48",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP883",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 4,
+              "colPos": 2,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "6",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP870",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "ST",
+                "name": "Seater",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 2,
+              "colPos": 2,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "7",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP857",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 1,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W1",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP896",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 3,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W12",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP897",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 4,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W13",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP860",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 4,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W16",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP861",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 5,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W17",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP898",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 5,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W20",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP899",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 6,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W21",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP862",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 6,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W24",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP863",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 7,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W25",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP900",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 7,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W28",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP901",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 8,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W29",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP864",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 8,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W32",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP865",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 9,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W33",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP12",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 9,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W36",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP13",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 10,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W37",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP894",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 1,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W4",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP866",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 10,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W40",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP867",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 11,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W41",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP14",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 11,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W44",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP868",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 12,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W45",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP15",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 12,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W49",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP895",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 5,
+              "colPos": 2,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W5",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP858",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 2,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W8",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            },
+            {
+              "code": "BLP75HP859",
+              "activeFlag": 1,
+              "busSeatType": {
+                "code": "WST",
+                "name": "Window Seat",
+                "activeFlag": 1,
+                "reservation": false
+              },
+              "rowPos": 1,
+              "colPos": 3,
+              "layer": 1,
+              "sequence": 0,
+              "seatName": "W9",
+              "seatFare": 0,
+              "serviceTax": 0,
+              "passengerAge": 0,
+              "orientation": 0
+            }
+          ],
+          "amenities": [
+            {
+              "code": "AMEO9JBE9",
+              "name": "Luggage Stand",
+              "activeFlag": 1
+            },
+            {
+              "code": "AMEE55J8",
+              "name": "GPS Tracking",
+              "activeFlag": 1
+            }
+          ]
+        }
+      ]
+    },
+    "route_tab": [
+      {
+        "code": "SGP7PH54333",
+        "activeFlag": 1,
+        "schedule": {
+          "code": "SCH4688855H",
+          "activeFlag": 1,
+          "distance": 0
+        },
+        "fromStation": {
+          "code": "ST5B8D127L",
+          "name": "Atmakur (Nellore)",
+          "activeFlag": 1,
+          "apiFlag": 0,
+          "radius": 0
+        },
+        "toStation": {
+          "code": "ST58866L",
+          "name": "Patna",
+          "activeFlag": 1,
+          "apiFlag": 0,
+          "radius": 0
+        },
+        "group": {
+          "activeFlag": 1,
+          "userCount": 0,
+          "maxSeatPerTransaction": 0,
+          "reportingDays": 0,
+          "cancellationChargeTax": 0,
+          "level": 0
+        },
+        "busSeatTypeFare": [
+          {
+            "fare": 2000,
+            "seatType": "WST"
+          },
+          {
+            "fare": 2000,
+            "seatType": "ST"
+          }
+        ],
+        "fare": 0,
+        "overrideList": []
+      }
+    ],
+    "cancel_tab": [
+      {
+        "code": "SGTP7PH54681",
+        "activeFlag": 1,
+        "schedule": {
+          "code": "SCH4688855H",
+          "activeFlag": 1,
+          "distance": 0
+        },
+        "cancellationTerm": {
+          "code": "CTN28I444",
+          "name": "General Policy",
+          "activeFlag": 1
+        },
+        "group": [],
+        "overrideList": []
+      }
+    ],
+    "booking_tab": [
+      {
+        "code": "SGCP7PH54525",
+        "activeFlag": 1,
+        "schedule": {
+          "code": "SCH4688855H",
+          "activeFlag": 1,
+          "distance": 0
+        },
+        "group": [],
+        "openMinitues": 43200,
+        "closeMinitues": -1,
+        "dayOfWeek": "",
+        "allowBookingFlag": 1,
+        "overrideList": []
+      }
+    ]
+  }
+}
