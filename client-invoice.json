@@ -6,21 +6,25 @@
         "invoice_code": "european",
         "invoice": {
             "from": {
-                "name": "EzeeInfo Pvt. Ltd.",
+                "name": "Seenu Transport.",
                 "address": "123 Business Park, Mumbai",
                 "email": "info@ezeeinfo.in",
                 "phone": "9876543210",
                 "gst_number": "27AAACB1234C1Z9",
                 "pan_number": "AAACB1234C",
+                "state": "TamilNadu",
+                "state_code": "33",
                 "logo": "/uploads/company/logo.png"
             },
             "to": {
-                "name": "Teckspiral",
-                "company": "Das Trading Co.",
+                "name": "EzeeInfo Pvt. Ltd.",
+                "company": "Teckspiral",
                 "address": "Chennai, India",
                 "email": "hari@dasco.in",
                 "phone": "9988776655",
-                "gst_number": "33AAACD5678L1Z2"
+                "gst_number": "33AAACD5678L1Z2",
+                "state": "TamilNadu",
+                "state_code": "33"
             },
             "invoice": {
                 "invoice_no": "INV-2025-0010",
@@ -32,39 +36,54 @@
             },
             "items": [
                 {
-                    "description": "Item 1 description",
-                    "hsn_code": "HSN1",
-                    "quantity": 1,
-                    "unit_price": 100,
-                    "discount": 10,
-                    "tax_rate": 18
+                    "cargo_code": "0LR-1232",
+                    "from_branch": "0fromBranch",
+                    "to_branch": "0toBranch",
+                    "description": "0st item",
+                    "hsn_code": "0st hsn",
+                    "quantity": "0st quantity",
+                    "unit_price": "0st price",
+                    "discount": "0st discount",
+                    "tax_rate": "0st tax rate",
+                    "mode_of_pay": "0On Account To Pay",
+                    "total": 0
                 },
                 {
-                    "description": "Item 2 description",
-                    "hsn_code": "HSN2",
-                    "quantity": 2,
-                    "unit_price": 200,
-                    "discount": 10,
-                    "tax_rate": 18
+                    "cargo_code": "1LR-1232",
+                    "from_branch": "1fromBranch",
+                    "to_branch": "1toBranch",
+                    "description": "1st item",
+                    "hsn_code": "1st hsn",
+                    "quantity": "1st quantity",
+                    "unit_price": "1st price",
+                    "discount": "1st discount",
+                    "tax_rate": "1st tax rate",
+                    "mode_of_pay": "1On Account To Pay",
+                    "total": 0
                 },
                 {
-                    "description": "Item 3 description",
-                    "hsn_code": "HSN3",
-                    "quantity": 3,
-                    "unit_price": 300,
-                    "discount": 10,
-                    "tax_rate": 18
+                    "cargo_code": "2LR-1232",
+                    "from_branch": "2fromBranch",
+                    "to_branch": "2toBranch",
+                    "description": "2st item",
+                    "hsn_code": "2st hsn",
+                    "quantity": "2st quantity",
+                    "unit_price": "2st price",
+                    "discount": "2st discount",
+                    "tax_rate": "2st tax rate",
+                    "mode_of_pay": "2On Account To Pay",
+                    "total": 0
                 }
             ],
             "summary": {
-                "sub_total": 1000,
-                "tax_amount": 180,
-                "grand_total": 1180,
+                "sub_total": 0,
+                "tax_amount": 0,
+                "grand_total": 0,
                 "amount_words": "One Thousand One Hundred Eighty Rupees Only"
             },
             "payment": {
                 "method": "Bank Transfer",
-                "transaction_id": "TXN2025110101",
+                "transaction_id": "Bank Transfer",
                 "bank_details": {
                     "account_name": "EzeeInfo Pvt. Ltd.",
                     "account_number": "9876543210",
@@ -75,17 +94,17 @@
             },
             "footer": {
                 "notes": "Thank you for your business!",
-                "terms": "Payment due within 10 days. Late payment fee 2%.",
+                "terms": "Thank you for your business!",
                 "signature": {
-                    "person": "John Doe",
-                    "designation": "Accounts Manager",
-                    "image": "/uploads/signatures/john.png"
+                    "person": "Haridas",
+                    "designation": "",
+                    "image": ""
                 }
             },
             "meta": {
                 "created_by": "admin_user",
-                "created_at": "2025-11-01 10:17:55",
-                "updated_at": "2025-11-01 10:17:55"
+                "created_at": "2025-11-05 09:25:26",
+                "updated_at": "2025-11-05 09:25:26"
             }
         }
     }
